@@ -1,0 +1,50 @@
+body{
+    background-image:url("krr3.jpg");
+    background-size: cover;
+    font-family: sans-serif;
+    margin-bottom:150px;
+    padding: 0;
+  }
+
+  h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
+  .established {
+    font-style: italic;
+  }
+
+  h1, h2, p {
+    text-align: center;
+  }
+
+  .ub {
+    width: 80%;
+    background-color:rgba(252, 248, 172, 0.842);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    padding: 60px;
+    max-width: 500px;
+    border-radius: 25%;
+    border-bottom: 5px solid black;
+    background: 1px solid black;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .address{
+    font-weight: bold;
+    font-family: tahoma;
+    font-style: italic;
+  }
+ 

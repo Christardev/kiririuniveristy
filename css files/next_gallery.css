@@ -1,0 +1,24 @@
+/*body{
+    background:url("cover.png");
+    background-size: cover;
+}*/
+fieldset{
+            border: none;
+            text-decoration: solid;
+        }
+    .imge1,.imge2,.imge3,.imge4 {
+        border: 2px double rgb(255, 0, 191);
+        border-radius: 10px;
+        border-style:double
+    }
+ 
+    .forwad a img{
+        width: 60px;
+    }
+    .footer{
+        font-size: 10px;
+        font-style: italic;
+    }
+    main{
+        margin-top: 100px;
+    }

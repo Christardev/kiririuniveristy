@@ -1,0 +1,169 @@
+		
+		.ub1{
+			font-weight: bold;
+		}
+		.img1{
+			border-radius:50%;
+			border: 1px solid magenta;
+			width: 200px;
+			height: 200px;
+			margin-right: 40%;
+			margin-top: 40px;
+		}
+		
+		
+		h2{
+		text-decoration: underline;
+		text-transform: capitalize;
+		text-overflow: ellipsis;
+		}
+	h1,h2{
+		text-transform: capitalize;
+		text-overflow: ellipsis;
+		}
+		.foot{
+			text-decoration: wavy  ;
+		}
+
+	.nav1{
+		align-self: center;
+		margin-top: 0;
+	}
+	 .division{
+	padding: 0 5px;
+	margin-right:5px;
+	display: flex;}
+	
+
+	 .division1{
+	margin-right: 20px;
+	justify-content: flex-start;
+	background-color: aqua;		
+	}
+	 .imagerecteur{
+		margin-left: 20px;
+		justify-content:flex-end;	
+	 }
+	.all{
+		/*background-color: aqua;*/
+		/*width: 100%;*/
+		padding: 0 20px;
+		margin: 0 10px
+	 }
+	 .align{
+		text-align: center;
+		color:black;
+		font-style: italic;
+		font-family: verdana;
+		font-weight: bold;
+	 }
+	 #head1{
+		margin-top: 0;
+	 }
+	 #head1 img{
+		width: 100%;
+		
+	 }
+	   .footer{
+        font-size: 10px;
+        font-style: italic;
+    }
+    .para,.para1,.para2,.para3{
+		font-weight:500;
+		color: magenta;
+    	
+    	
+    }
+	.para{
+		text-decoration: underline;
+		font-weight: bold;
+		font-family:Tahoma;
+		font-style: italic;
+
+	}
+    .para1{
+		font-size: 15px;
+		color:black;
+		font-style: italic;
+		font-family: verdana;
+		width: 70%;
+		word-spacing: 0.5em;
+	}
+    .para2{
+		color:black;
+		font-style: italic;
+		font-family: verdana;
+		font-size: 14px;
+		width: 50%;
+		word-spacing: 0.5em;
+		margin-right:auto;
+		font-weight: bold;
+
+	}
+    .para3{
+		/*color:black;*/
+		font-style: italic;
+		font-family: verdana;
+		font-size: 14px;
+		word-spacing: 0.5em;
+
+	}
+	.uni{
+		color:black;
+		font-style: none;
+		font-family: tahoma;
+		font-weight: bold;
+		text-shadow: -3px 3px 10px rgb(255, 255, 255);
+		font-size: 20px;
+	}
+    
+	span{
+		color:black;
+	}
+	td{
+		font-weight: bold;
+		font-style: italic;
+	}
+	#ub{
+		color: rgb(0, 0, 0);
+		background-color: rgb(255, 255, 255);
+		/*border: 1px solid black;*/
+		padding: 3px;
+		
+	}
+	.span{
+		background-color: rgb(101, 181, 255);
+		color: black;
+		font-weight: bold;
+	}
+	/*body{
+		padding: 0;
+		margin:0;
+	}*/
+	.img{
+		margin-top: 0;
+		padding-top: 0;
+	}
+	.date{
+		color:rgb(255, 101, 247);
+		
+		font-weight: bold;
+	
+	}
+	.none{
+		text-decoration: none;
+		font-weight: normal;
+	}
+.map{
+	background-color: rgb(168, 147, 147);
+	color: brown;
+	padding: 0px;
+	margin-left:37px;
+	width: 30%;
+	
+}	
+.map iframe{
+	height: 250px;
+	
+}
+

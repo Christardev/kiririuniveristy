@@ -1,0 +1,109 @@
+body{
+       
+    background-image:url("hands.jpg");
+    background-size: cover;
+    font-family: sans-serif;
+    margin-bottom:150px;
+    padding: 0;       
+    }
+    .div1{
+        background-color: rgba(222, 184, 135, 0.164);
+        margin:0 15% 15% 15%;
+        border-radius:4px;
+        border-color:chartreuse;
+        color:rgb(255, 185, 35);
+        font-size:larger;
+        font-family:'Gill';
+       padding-top:1px;
+        border-right: magenta;
+        border-right:rgb(3, 182, 253) solid 5px;       
+    }
+    .div2{
+        margin: 20px 20px 0 20px;
+    }
+    div h1{
+        text-decoration: underline;
+    }
+        .img1{
+			border-radius:10%;
+            border-right:rgb(3, 182, 253) solid 5px;
+            width: 250px;
+            height: 250px;
+            margin-left: 5px;
+		}
+        ol li{
+            list-style: none;
+        }
+        ol li a{
+            
+            font-size: 20px;
+            font-family: Arial;
+            color: rgb(20, 20, 19);
+            text-decoration: none;
+        }
+        .port{
+            background-color: azure;
+            padding: 0 5px;
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        .social{
+            display: flex;
+            width: auto;
+            justify-content: center; 
+            padding-top: 5px;
+            padding-bottom: 60px; 
+        }
+        .social li{
+            margin: 0 15px;
+        } 
+        .social li a {
+            font-size:20px ;
+            font-weight: bold;
+        }
+        .social li a img{
+            width: 25px;
+        }
+        .i1,.i2{
+            font-family: Helvetica;
+            color: magenta;
+            font-style: italic;
+        }
+       
+
+
+        
+        .style{
+            font-weight: bold;
+            font-family:tahoma;
+            color: white;
+
+        }
+        .field{
+            padding: 5px;
+            text-align: center;
+            justify-content: center;
+        }
+        .i2,.i1{
+            font-size: 18px;
+            color: white;
+            word-spacing: 0.2em;
+            color: rgb(3, 182, 253);
+        }
+
+         .footer{
+        font-size: 10px;
+        font-style: italic;
+        color: black;
+    }
+    .foot{
+                padding-bottom: 10px;
+                font-weight: bold;
+
+    }
+main{
+    padding-top: 10%;
+}
+
+
+
